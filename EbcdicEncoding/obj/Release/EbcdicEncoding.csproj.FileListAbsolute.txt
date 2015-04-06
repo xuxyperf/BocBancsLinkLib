@@ -1,0 +1,10 @@
+F:\Xuxy\20120912\BocBancsLinkLib\EbcdicEncoding\bin\Release\EbcdicEncoding.dll
+F:\Xuxy\20120912\BocBancsLinkLib\EbcdicEncoding\bin\Release\EbcdicEncoding.pdb
+F:\Xuxy\20120912\BocBancsLinkLib\EbcdicEncoding\obj\Release\ResolveAssemblyReference.cache
+F:\Xuxy\20120912\BocBancsLinkLib\EbcdicEncoding\obj\Release\EbcdicEncoding.dll
+F:\Xuxy\20120912\BocBancsLinkLib\EbcdicEncoding\obj\Release\EbcdicEncoding.pdb
+E:\C#\BocBancsLinkLib\EbcdicEncoding\bin\Release\EbcdicEncoding.dll
+E:\C#\BocBancsLinkLib\EbcdicEncoding\bin\Release\EbcdicEncoding.pdb
+E:\C#\BocBancsLinkLib\EbcdicEncoding\obj\Release\ResolveAssemblyReference.cache
+E:\C#\BocBancsLinkLib\EbcdicEncoding\obj\Release\EbcdicEncoding.dll
+E:\C#\BocBancsLinkLib\EbcdicEncoding\obj\Release\EbcdicEncoding.pdb
